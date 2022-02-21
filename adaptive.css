@@ -1,0 +1,126 @@
+@media  screen and (max-width:1200px) {
+    #title {
+      background: #FBF8F1;
+      color: #fff;
+  height: 1350px;
+    }
+    #Service{
+      padding: 8% 20%;
+        text-align: center;
+        height: 500px;
+        padding-bottom: 120px;
+        background: #F7ECDE;
+    }
+    #portfolio{
+      text-align: center;
+      background: #E9DAC1;
+      height:700px;
+   
+    }
+    #about{
+      text-align: center;
+      background: #54BAB9;
+      height:650px;
+    
+  }
+  #footer{
+    background: #10504f;
+    height: 300px;
+    text-align: center;
+  }
+  }
+  @media  screen and (max-width:1000px) {
+    #title {
+      background:#FBF8F1 ;
+      color: #fff;
+  height: 1350px;
+    }
+    #Service{ 
+      padding: 8% 20%;
+        text-align: center;
+        height: 700px;
+        background: #F7ECDE;
+        padding-bottom: 120px;
+    }
+    #portfolio{
+      text-align: center;
+      background: #E9DAC1;
+      height:800px;
+   
+    }
+    #about{
+      text-align: center;
+      background: #54BAB9;
+      height:800px;
+    
+  }
+  #footer{
+    background: #10504f;
+    height: 400px;
+    text-align: center;
+  }
+  }
+  @media  screen and (max-width:800px) {
+    #title {
+      background: #FBF8F1;
+      color: #fff;
+  height: 1250px;
+    }
+    #Service{
+      padding: 8% 20%;
+        text-align: center;
+        height: 700px;
+        padding-bottom: 120px;
+        background: #F7ECDE;
+    }
+    #portfolio{
+      text-align: center;
+      background: #E9DAC1;
+      height:800px;
+   
+    }
+    #about{
+      text-align: center;
+      background: #54BAB9;
+      height:950px;
+      width: 100%;
+     
+  }
+  #footer{
+    background: #10504f;
+    height: 600px;
+    text-align: center;
+  }
+  }
+  @media  screen and (max-width:600px) {
+    #title {
+      background: #FBF8F1;
+      color: #fff;
+  height: 1450px;
+    }
+    #Service{
+      padding: 8% 20%;
+      background: #F7ECDE;
+        text-align: center;
+        height: 750px;
+        padding-bottom: 120px;
+    }
+    #portfolio{
+      text-align: center;
+      background: #E9DAC1;
+      height:1000px;
+   
+    }
+    #about{
+      text-align: center;
+      background: #54BAB9;
+      height:950px;
+      width: 100%;
+   
+    }
+    #footer{
+      background: #10504f;
+      height: 800px;
+      text-align: center;
+    }
+  }
