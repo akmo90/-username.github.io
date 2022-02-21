@@ -1,0 +1,144 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  #title {
+    background: #FBF8F1;
+height: 750px;
+  }
+  h1 {
+    font-family: 'Montserrat', sans-serif;;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: black;
+  }
+  h2{
+    font-family: 'Montserrat', sans-serif;;
+    font-weight: bold;
+    font-size: 5rem;
+    line-height: 1.5;
+    color: black;
+  }
+
+  .btn {
+    border: 2px solid black;
+    background-color: #FBF8F1;
+    color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+ 
+    .tell {
+      border-color: #ff9800;
+      color: orange;
+    }
+    
+    .tell:hover {
+      background: #ff9800;
+      color: white;
+    }
+    .success {
+      border-color: #04AA6D;
+      color: #10504f;
+    }
+    
+    .success:hover {
+      background-color: #04AA6D;
+      color: #FBF8F1;
+    }
+
+    .info {background-color: #54BAB9; color: azure; border: none;}
+    .info:hover {background: #1f6665;}
+
+  h3 {
+    font-family: 'Montserrat', sans-serif;;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: whitesmoke;
+    margin-top: 10px;
+  }
+
+  h4{
+    font-family: 'Montserrat', sans-serif;;
+    font-weight: bold;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    color: black;
+    margin-top: 10px;
+  }
+  
+ h5{
+  font-family: 'Lato', sans-serif;;
+  font-weight: bold;
+  font-size: 2rem;
+  line-height: 1.5;
+  color: whitesmoke;
+  margin-top: 50px;
+ }
+  p {
+    font-family: 'Lato', sans-serif;
+    color: rgb(63, 63, 150);
+    text-align: center;
+  }
+
+  #square {
+    position: relative;
+    cursor: pointer;
+    width: 100px;
+    height: 100px;
+    background: #920a87;
+  }
+
+  
+
+  .container-fluid{
+    padding: 3% 15%;
+  }
+  
+  
+  .navbar-brand {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 2rem;
+  }
+  
+  .navbar {
+    padding: 0 0 5rem 0;
+  }
+  
+  .nav-item {
+    padding: 0 15px;
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+  
+
+  #Service{
+    padding: 8% 20%;
+      text-align: center;
+      height: 500px;
+      padding-bottom: 120px;
+      background: #F7ECDE;
+  }
+  
+  #portfolio{
+    text-align: center;
+    background: #E9DAC1;
+    height:500px;
+ 
+  }
+  #about{
+      text-align: center;
+      background: #54BAB9;
+      height:600px;
+  }
+
+#footer{
+  background: #10504f;
+  height: 300px;
+  text-align: center;
+}
+
